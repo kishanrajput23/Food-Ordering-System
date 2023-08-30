@@ -9,7 +9,7 @@ Check project requirements from here : **[CLICK HERE](https://github.com/kishanr
 
 ## Setup & Installation
 
-For setting up and running this project in your system please checkout this brief **[Documentation]()** for your reference and hands-on explanation.
+For setting up and running this project in your system please checkout this brief **[Documentation](https://github.com/kishanrajput23/Food-Ordering-System/blob/main/project_guide.md)** for your reference and hands-on explanation.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
